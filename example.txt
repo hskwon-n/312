@@ -1,0 +1,12 @@
+ap-northeast-2
+124.0.0.0/16
+2
+124.0.0.0/24
+ap-northeast-2a
+124.0.2.0/24
+ap-northeast-2b
+2
+124.0.1.0/24
+ap-northeast-2c
+124.0.3.0/24
+ap-northeast-2d
